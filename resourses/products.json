@@ -1,0 +1,111 @@
+{
+    "products": [
+        {
+            "title": "Boots Mega Super Cheap",
+            "img": "img/product_1.webp",
+            "cost": "222.00"
+        },
+        {
+            "title": "Boots Mega Super Cheap",
+            "img": "img/product_2.webp",
+            "cost": "222.00"
+        },
+        {
+            "title": "Boots Mega Super Cheap",
+            "img": "img/product_3.webp",
+            "cost": "222.00",
+            "sale": true,
+            "pastCost": "292.00"
+        },
+        {
+            "title": "Boots Mega Super Cheap",
+            "img": "img/product_4.webp",
+            "cost": "222.00"
+        },
+        {
+            "title": "Boots Mega Super Cheap",
+            "img": "img/product_5.webp",
+            "cost": "222.00"
+        },
+        {
+            "title": "Boots Mega Super Cheap",
+            "img": "img/product_6.webp",
+            "cost": "222.00"
+        },
+        {
+            "title": "Boots Mega Super Cheap",
+            "img": "img/product_7.webp",
+            "cost": "222.00"
+        },
+        {
+            "title": "Boots Mega Super Cheap",
+            "img": "img/product_8.webp",
+            "cost": "222.00"
+        },
+        {
+            "title": "Boots Mega Super Cheap",
+            "img": "img/product_9.webp",
+            "cost": "222.00"
+        },
+        {
+            "title": "Boots Mega Super Cheap",
+            "img": "img/product_10.webp",
+            "cost": "222.00"
+        },
+        {
+            "title": "Boots Mega Super Cheap",
+            "img": "img/product_1.webp",
+            "cost": "222.00"
+        }
+    ],
+    "purchaseList": [
+        {
+            "image": "purchase",
+            "who": "Someone purchaed a",
+            "what": "Faux shearling double-breasted coat",
+            "where": "15 minutes ago London, Great Britain"
+        },
+        {
+            "image": "purchase",
+            "who": "Samuel L. Jackson purchaed a",
+            "what": "Motherf*ckers shirt",
+            "where": "20 minutes ago London, Great Britain"
+        },
+        {
+            "image": "purchase",
+            "who": "Someone purchaed a",
+            "what": "OtherWorlds",
+            "where": "1 secong ago Kiev, Ukraine"
+        },
+        {
+            "image": "purchase",
+            "who": "Kirill . purchaed a",
+            "what": "CaXaRoK",
+            "where": "7 secongs ago Lughansk, Ukraine"
+        },
+        {
+            "image": "purchase",
+            "who": "Kirill . purchaed a",
+            "what": "Marvel Universe",
+            "where": "9 minutes ago Lughansk, Ukraine"
+        },
+        {
+            "image": "purchase",
+            "who": "Nameless purchaed a",
+            "what": "GeekMovies",
+            "where": "7 days ago Lviv, Ukraine"
+        },
+        {
+            "image": "purchase",
+            "who": "Timur purchaed a",
+            "what": "Emotions on posts OtherWorlds",
+            "where": "1 month ago Lviv, Ukraine"
+        },
+        {
+            "image": "purchase",
+            "who": "Spotify purchaed a",
+            "what": "OtherMusic",
+            "where": "1 year ago Lviv, Ukraine"
+        }
+    ]
+}
